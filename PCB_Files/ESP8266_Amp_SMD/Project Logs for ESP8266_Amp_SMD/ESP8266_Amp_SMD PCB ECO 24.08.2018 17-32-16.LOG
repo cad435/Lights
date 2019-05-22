@@ -1,0 +1,80 @@
+Removed Pin From Net: NetName=GND Pin=C21-1
+Removed Pin From Net: NetName=VCC33 Pin=C21-2
+Removed Pin From Net: NetName=Net100R/3_1 Pin=Q1-1
+Removed Pin From Net: NetName=NetColors_2 Pin=Q1-2
+Removed Pin From Net: NetName=GND Pin=Q1-3
+Removed Pin From Net: NetName=Net100R/4_1 Pin=Q2-1
+Removed Pin From Net: NetName=NetColors_3 Pin=Q2-2
+Removed Pin From Net: NetName=GND Pin=Q2-3
+Removed Pin From Net: NetName=Net100R/5_1 Pin=Q3-1
+Removed Pin From Net: NetName=NetColors_4 Pin=Q3-2
+Removed Pin From Net: NetName=GND Pin=Q3-3
+Removed Pin From Net: NetName=IO4 Pin=Q4-1
+Removed Pin From Net: NetName=NetCW/WW_1 Pin=Q4-2
+Removed Pin From Net: NetName=GND Pin=Q4-3
+Removed Pin From Net: NetName=IO5 Pin=Q5-1
+Removed Pin From Net: NetName=NetCW/WW_2 Pin=Q5-2
+Removed Pin From Net: NetName=GND Pin=Q5-3
+Removed Pin From Net: NetName=GND Pin=VR2-1
+Removed Pin From Net: NetName=VCC33 Pin=VR2-2
+Removed Pin From Net: NetName=NetC19_2 Pin=VR2-3
+Removed Member From Class: ClassName=ESP8266_Amp_THT Member=C21
+Removed Member From Class: ClassName=ESP8266_Amp_THT Member=VR2
+Change Component DesignItemId : Designator=Q1 Old DesignItemId=IRLU024N New DesignItemId=MOSFET_NCE2302
+Change Component DesignItemId : Designator=Q2 Old DesignItemId=IRLU024N New DesignItemId=MOSFET_NCE2302
+Change Component DesignItemId : Designator=Q3 Old DesignItemId=IRLU024N New DesignItemId=MOSFET_NCE2302
+Change Component DesignItemId : Designator=Q4 Old DesignItemId=IRLU024N New DesignItemId=MOSFET_NCE2302
+Change Component DesignItemId : Designator=Q5 Old DesignItemId=IRLU024N New DesignItemId=MOSFET_NCE2302
+Change Component Footprint: Designator=2.2K/1 Old Footprint=Res-1/4W New Footprint=0805
+Change Component Footprint: Designator=2.2K/2 Old Footprint=Res-1/4W New Footprint=0805
+Change Component Footprint: Designator=2.2K/3 Old Footprint=Res-1/4W New Footprint=0805
+Change Component Footprint: Designator=2.2K/4 Old Footprint=Res-1/4W New Footprint=0805
+Change Component Footprint: Designator=2.2K Old Footprint=Res-1/4W New Footprint=0805
+Change Component Footprint: Designator=100R/1 Old Footprint=Res-1/4W New Footprint=0805
+Change Component Footprint: Designator=100R/2 Old Footprint=Res-1/4W New Footprint=0805
+Change Component Footprint: Designator=100R/3 Old Footprint=Res-1/4W New Footprint=0805
+Change Component Footprint: Designator=100R/4 Old Footprint=Res-1/4W New Footprint=0805
+Change Component Footprint: Designator=100R/5 Old Footprint=Res-1/4W New Footprint=0805
+Change Component Footprint: Designator=Boot Old Footprint=Tactile-SW New Footprint=Tactile-SW SMT
+Change Component Footprint: Designator=RST Old Footprint=Tactile-SW New Footprint=Tactile-SW SMT
+Change Component Footprint: Designator=Q1 Old Footprint=TO-251AA New Footprint=SOT23
+Change Component Footprint: Designator=Q2 Old Footprint=TO-251AA New Footprint=SOT23
+Change Component Footprint: Designator=Q3 Old Footprint=TO-251AA New Footprint=SOT23
+Change Component Footprint: Designator=Q4 Old Footprint=TO-251AA New Footprint=SOT23
+Change Component Footprint: Designator=Q5 Old Footprint=TO-251AA New Footprint=SOT23
+Change Component Comment : Designator=Q1 Old Comment=IRLU024N New Comment=MOSFET_NCE2302
+Change Component Comment : Designator=Q2 Old Comment=IRLU024N New Comment=MOSFET_NCE2302
+Change Component Comment : Designator=Q3 Old Comment=IRLU024N New Comment=MOSFET_NCE2302
+Change Component Comment : Designator=Q4 Old Comment=IRLU024N New Comment=MOSFET_NCE2302
+Change Component Comment : Designator=Q5 Old Comment=IRLU024N New Comment=MOSFET_NCE2302
+Added Component: Designator=C1(0805)
+Added Component: Designator=R1(0805)
+Added Component: Designator=VR1(SOT89)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=VCC33 Pin=C1-2
+Added Pin To Net: NetName=GND Pin=Q1-1
+Added Pin To Net: NetName=Net100R/3_1 Pin=Q1-2
+Added Pin To Net: NetName=NetColors_2 Pin=Q1-3
+Added Pin To Net: NetName=GND Pin=Q2-1
+Added Pin To Net: NetName=Net100R/4_1 Pin=Q2-2
+Added Pin To Net: NetName=NetColors_3 Pin=Q2-3
+Added Pin To Net: NetName=GND Pin=Q3-1
+Added Pin To Net: NetName=Net100R/5_1 Pin=Q3-2
+Added Pin To Net: NetName=NetColors_4 Pin=Q3-3
+Added Pin To Net: NetName=GND Pin=Q4-1
+Added Pin To Net: NetName=IO4 Pin=Q4-2
+Added Pin To Net: NetName=NetCW/WW_1 Pin=Q4-3
+Added Pin To Net: NetName=GND Pin=Q5-1
+Added Pin To Net: NetName=IO5 Pin=Q5-2
+Added Pin To Net: NetName=NetCW/WW_2 Pin=Q5-3
+Added Pin To Net: NetName=NetC19_2 Pin=R1-1
+Added Pin To Net: NetName=GND Pin=VR1-1
+Added Pin To Net: NetName=VCC33 Pin=VR1-2
+Added Pin To Net: NetName=VCC33 Pin=VR1-2
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=VR1-3
+Added Net: Name=NetR1_2
+Change Class Name : Old Net Name=ESP8266_Amp_THT New Net Name=ESP8266_Amp_SMD
+Added Member To Class: ClassName=ESP8266_Amp_SMD Member=Component C1 Cap
+Added Member To Class: ClassName=ESP8266_Amp_SMD Member=Component R1 Res
+Added Member To Class: ClassName=ESP8266_Amp_SMD Member=Component VR1 AMS1117

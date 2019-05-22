@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetC19_2 Pin=VR1-1
+Removed Pin From Net: NetName=GND Pin=VR1-2
+Removed Pin From Net: NetName=VCC33 Pin=VR1-3
+Removed Member From Class: ClassName=ESP8266_Amp_THT Member=VR1
+Added Component: Designator=VR2(TO-220AB)
+Added Pin To Net: NetName=GND Pin=VR2-1
+Added Pin To Net: NetName=VCC33 Pin=VR2-2
+Added Pin To Net: NetName=NetC19_2 Pin=VR2-3
+Added Member To Class: ClassName=ESP8266_Amp_THT Member=Component VR2 VoltageRegulator_G/O/I

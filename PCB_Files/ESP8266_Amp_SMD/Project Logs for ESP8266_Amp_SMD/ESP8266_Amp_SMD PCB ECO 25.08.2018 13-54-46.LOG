@@ -1,0 +1,25 @@
+Change Component Designator: OldDesignator=2.2K NewDesignator=2.2K/1
+Change Component Designator: OldDesignator=2.2K NewDesignator=2.2K/2
+Change Component Designator: OldDesignator=2.2K NewDesignator=2.2K/3
+Change Component Designator: OldDesignator=2.2K NewDesignator=2.2K/4
+Change Component Designator: OldDesignator=100 NewDesignator=100R/1
+Change Component Designator: OldDesignator=100 NewDesignator=100R/2
+Change Component Designator: OldDesignator=100 NewDesignator=100R/3
+Change Component Designator: OldDesignator=100 NewDesignator=100R/4
+Change Component Designator: OldDesignator=100 NewDesignator=100R/5
+Change Component Designator: OldDesignator=G  R  B NewDesignator=Colors
+Added Component: Designator=C2(0805)
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=R1-2
+Added Pin To Net: NetName=NetC2_2 Pin=VR1-3
+Added Net: Name=NetC2_2
+Added Member To Class: ClassName=ESP8266_Amp_SMD Member=Component 2.2K/1 Res
+Added Member To Class: ClassName=ESP8266_Amp_SMD Member=Component 2.2K/2 Res
+Added Member To Class: ClassName=ESP8266_Amp_SMD Member=Component 2.2K/3 Res
+Added Member To Class: ClassName=ESP8266_Amp_SMD Member=Component 2.2K/4 Res
+Added Member To Class: ClassName=ESP8266_Amp_SMD Member=Component 100R/2 Res
+Added Member To Class: ClassName=ESP8266_Amp_SMD Member=Component 100R/3 Res
+Added Member To Class: ClassName=ESP8266_Amp_SMD Member=Component 100R/4 Res
+Added Member To Class: ClassName=ESP8266_Amp_SMD Member=Component 100R/5 Res
+Added Member To Class: ClassName=ESP8266_Amp_SMD Member=Component C2 Cap

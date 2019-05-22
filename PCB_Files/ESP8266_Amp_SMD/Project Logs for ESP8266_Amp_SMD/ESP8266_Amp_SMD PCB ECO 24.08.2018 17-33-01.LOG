@@ -1,0 +1,137 @@
+Added Component: Designator=2.2K/1(0805)
+Added Component: Designator=2.2K/2(0805)
+Added Component: Designator=2.2K/3(0805)
+Added Component: Designator=2.2K/4(0805)
+Added Component: Designator=2.2K(0805)
+Added Component: Designator=100R/1(0805)
+Added Component: Designator=100R/2(0805)
+Added Component: Designator=100R/3(0805)
+Added Component: Designator=100R/4(0805)
+Added Component: Designator=100R/5(0805)
+Added Component: Designator=Boot(Tactile-SW SMT)
+Added Component: Designator=C1(0805)
+Added Component: Designator=C19(CAPR-2.54mm)
+Added Component: Designator=C20(CAPR-2.54mm)
+Added Component: Designator=Colors(HDR1X4)
+Added Component: Designator=CW/WW(HDR1X2)
+Added Component: Designator=IC1(ESP8266 ESP-12-E)
+Added Component: Designator=J1(694106301002)
+Added Component: Designator=Programming(HDR1X5)
+Added Component: Designator=Q1(SOT23)
+Added Component: Designator=Q2(SOT23)
+Added Component: Designator=Q3(SOT23)
+Added Component: Designator=Q4(SOT23)
+Added Component: Designator=Q5(SOT23)
+Added Component: Designator=R1(0805)
+Added Component: Designator=RST(Tactile-SW SMT)
+Added Component: Designator=VR1(SOT89)
+Added Pin To Net: NetName=Net2.2K_1 Pin=2.2K-1
+Added Pin To Net: NetName=VCC33 Pin=2.2K-2
+Added Pin To Net: NetName=Net2.2K/1_1 Pin=2.2K/1-1
+Added Pin To Net: NetName=VCC33 Pin=2.2K/1-2
+Added Pin To Net: NetName=GND Pin=2.2K/2-1
+Added Pin To Net: NetName=Net2.2K/2_2 Pin=2.2K/2-2
+Added Pin To Net: NetName=VCC33 Pin=2.2K/3-1
+Added Pin To Net: NetName=IO0 Pin=2.2K/3-2
+Added Pin To Net: NetName=VCC33 Pin=2.2K/4-1
+Added Pin To Net: NetName=Net2.2K/4_2 Pin=2.2K/4-2
+Added Pin To Net: NetName=IO4 Pin=100R/1-1
+Added Pin To Net: NetName=Net100R/1_2 Pin=100R/1-2
+Added Pin To Net: NetName=IO5 Pin=100R/2-1
+Added Pin To Net: NetName=Net100R/2_2 Pin=100R/2-2
+Added Pin To Net: NetName=Net100R/3_1 Pin=100R/3-1
+Added Pin To Net: NetName=Net100R/3_2 Pin=100R/3-2
+Added Pin To Net: NetName=Net100R/4_1 Pin=100R/4-1
+Added Pin To Net: NetName=Net100R/4_2 Pin=100R/4-2
+Added Pin To Net: NetName=Net100R/5_1 Pin=100R/5-1
+Added Pin To Net: NetName=Net100R/5_2 Pin=100R/5-2
+Added Pin To Net: NetName=IO0 Pin=Boot-1
+Added Pin To Net: NetName=IO0 Pin=Boot-2
+Added Pin To Net: NetName=GND Pin=Boot-3
+Added Pin To Net: NetName=GND Pin=Boot-4
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=VCC33 Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=NetC19_2 Pin=C19-2
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=VCC33 Pin=C20-2
+Added Pin To Net: NetName=NetC19_2 Pin=Colors-1
+Added Pin To Net: NetName=NetColors_2 Pin=Colors-2
+Added Pin To Net: NetName=NetColors_3 Pin=Colors-3
+Added Pin To Net: NetName=NetColors_4 Pin=Colors-4
+Added Pin To Net: NetName=NetCW/WW_1 Pin=CW/WW-1
+Added Pin To Net: NetName=NetCW/WW_2 Pin=CW/WW-2
+Added Pin To Net: NetName=Net2.2K/1_1 Pin=IC1-1
+Added Pin To Net: NetName=Net2.2K_1 Pin=IC1-3
+Added Pin To Net: NetName=Net100R/3_2 Pin=IC1-5
+Added Pin To Net: NetName=Net100R/4_2 Pin=IC1-6
+Added Pin To Net: NetName=Net100R/5_2 Pin=IC1-7
+Added Pin To Net: NetName=VCC33 Pin=IC1-8
+Added Pin To Net: NetName=GND Pin=IC1-15
+Added Pin To Net: NetName=Net2.2K/2_2 Pin=IC1-16
+Added Pin To Net: NetName=Net2.2K/4_2 Pin=IC1-17
+Added Pin To Net: NetName=IO0 Pin=IC1-18
+Added Pin To Net: NetName=Net100R/1_2 Pin=IC1-19
+Added Pin To Net: NetName=Net100R/2_2 Pin=IC1-20
+Added Pin To Net: NetName=RXD Pin=IC1-21
+Added Pin To Net: NetName=TXD Pin=IC1-22
+Added Pin To Net: NetName=NetC19_2 Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=TXD Pin=Programming-1
+Added Pin To Net: NetName=RXD Pin=Programming-2
+Added Pin To Net: NetName=IO0 Pin=Programming-3
+Added Pin To Net: NetName=GND Pin=Programming-4
+Added Pin To Net: NetName=VCC33 Pin=Programming-5
+Added Pin To Net: NetName=GND Pin=Q1-1
+Added Pin To Net: NetName=Net100R/3_1 Pin=Q1-2
+Added Pin To Net: NetName=NetColors_2 Pin=Q1-3
+Added Pin To Net: NetName=GND Pin=Q2-1
+Added Pin To Net: NetName=Net100R/4_1 Pin=Q2-2
+Added Pin To Net: NetName=NetColors_3 Pin=Q2-3
+Added Pin To Net: NetName=GND Pin=Q3-1
+Added Pin To Net: NetName=Net100R/5_1 Pin=Q3-2
+Added Pin To Net: NetName=NetColors_4 Pin=Q3-3
+Added Pin To Net: NetName=GND Pin=Q4-1
+Added Pin To Net: NetName=IO4 Pin=Q4-2
+Added Pin To Net: NetName=NetCW/WW_1 Pin=Q4-3
+Added Pin To Net: NetName=GND Pin=Q5-1
+Added Pin To Net: NetName=IO5 Pin=Q5-2
+Added Pin To Net: NetName=NetCW/WW_2 Pin=Q5-3
+Added Pin To Net: NetName=NetC19_2 Pin=R1-1
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=GND Pin=RST-1
+Added Pin To Net: NetName=GND Pin=RST-2
+Added Pin To Net: NetName=Net2.2K/1_1 Pin=RST-3
+Added Pin To Net: NetName=Net2.2K/1_1 Pin=RST-4
+Added Pin To Net: NetName=GND Pin=VR1-1
+Added Pin To Net: NetName=VCC33 Pin=VR1-2
+Added Pin To Net: NetName=VCC33 Pin=VR1-2
+Added Pin To Net: NetName=NetR1_2 Pin=VR1-3
+Added Member To Class: ClassName=ESP8266_Amp_SMD Member=Component 2.2K/1 Res
+Added Member To Class: ClassName=ESP8266_Amp_SMD Member=Component 2.2K/2 Res
+Added Member To Class: ClassName=ESP8266_Amp_SMD Member=Component 2.2K/3 Res
+Added Member To Class: ClassName=ESP8266_Amp_SMD Member=Component 2.2K/4 Res
+Added Member To Class: ClassName=ESP8266_Amp_SMD Member=Component 2.2K Res
+Added Member To Class: ClassName=ESP8266_Amp_SMD Member=Component 100R/1 Res
+Added Member To Class: ClassName=ESP8266_Amp_SMD Member=Component 100R/2 Res
+Added Member To Class: ClassName=ESP8266_Amp_SMD Member=Component 100R/3 Res
+Added Member To Class: ClassName=ESP8266_Amp_SMD Member=Component 100R/4 Res
+Added Member To Class: ClassName=ESP8266_Amp_SMD Member=Component 100R/5 Res
+Added Member To Class: ClassName=ESP8266_Amp_SMD Member=Component Boot Tactile Switch
+Added Member To Class: ClassName=ESP8266_Amp_SMD Member=Component C1 Cap
+Added Member To Class: ClassName=ESP8266_Amp_SMD Member=Component C19 Cap Pol
+Added Member To Class: ClassName=ESP8266_Amp_SMD Member=Component C20 Cap Pol
+Added Member To Class: ClassName=ESP8266_Amp_SMD Member=Component Colors Header 4
+Added Member To Class: ClassName=ESP8266_Amp_SMD Member=Component CW/WW Header 2
+Added Member To Class: ClassName=ESP8266_Amp_SMD Member=Component IC1 ESP8266 ESP-12-E
+Added Member To Class: ClassName=ESP8266_Amp_SMD Member=Component J1 12V_DC_Jack
+Added Member To Class: ClassName=ESP8266_Amp_SMD Member=Component Programming Header 5
+Added Member To Class: ClassName=ESP8266_Amp_SMD Member=Component Q1 MOSFET_NCE2302
+Added Member To Class: ClassName=ESP8266_Amp_SMD Member=Component Q2 MOSFET_NCE2302
+Added Member To Class: ClassName=ESP8266_Amp_SMD Member=Component Q3 MOSFET_NCE2302
+Added Member To Class: ClassName=ESP8266_Amp_SMD Member=Component Q4 MOSFET_NCE2302
+Added Member To Class: ClassName=ESP8266_Amp_SMD Member=Component Q5 MOSFET_NCE2302
+Added Member To Class: ClassName=ESP8266_Amp_SMD Member=Component R1 Res
+Added Member To Class: ClassName=ESP8266_Amp_SMD Member=Component RST Tactile Switch
+Added Member To Class: ClassName=ESP8266_Amp_SMD Member=Component VR1 AMS1117

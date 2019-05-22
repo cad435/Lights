@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: E:\_DATEN\Alexander\Projekte\_Projektordner\HueBridge\diyHue\Altium\ESP8266_Amp_THT\ESP8266_Amp_THT.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=esp8266_amp_tht-roundholes.txt|LayerPairs=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=esp8266_amp_tht-slotholes.txt|LayerPairs=gtl,gbl

@@ -1,0 +1,27 @@
+Change Physical Footprint: Designator=2.2K Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=2.2K/1 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=2.2K/2 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=2.2K/3 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=2.2K/4 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=100R/1 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=100R/2 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=100R/3 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=100R/4 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=100R/5 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=Boot Old Footprint=Tactile-SW SMT New Footprint=Tactile-SW SMT
+Change Physical Footprint: Designator=C1 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=C19 Old Footprint=CAPR-2.54mm New Footprint=CAPR-2.54mm
+Change Physical Footprint: Designator=C20 Old Footprint=CAPR-2.54mm New Footprint=CAPR-2.54mm
+Change Physical Footprint: Designator=Colors Old Footprint=HDR1X4 New Footprint=HDR1X4
+Change Physical Footprint: Designator=CW/WW Old Footprint=HDR1X2 New Footprint=HDR1X2
+Change Physical Footprint: Designator=IC1 Old Footprint=ESP8266 ESP-12-E New Footprint=ESP8266 ESP-12-E
+Change Physical Footprint: Designator=J1 Old Footprint=694106301002 New Footprint=694106301002
+Change Physical Footprint: Designator=Programming Old Footprint=HDR1X5 New Footprint=HDR1X5
+Change Physical Footprint: Designator=Q1 Old Footprint=SOT23 New Footprint=SOT23
+Change Physical Footprint: Designator=Q2 Old Footprint=SOT23 New Footprint=SOT23
+Change Physical Footprint: Designator=Q3 Old Footprint=SOT23 New Footprint=SOT23
+Change Physical Footprint: Designator=Q4 Old Footprint=SOT23 New Footprint=SOT23
+Change Physical Footprint: Designator=Q5 Old Footprint=SOT23 New Footprint=SOT23
+Change Physical Footprint: Designator=R1 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=RST Old Footprint=Tactile-SW SMT New Footprint=Tactile-SW SMT
+Change Physical Footprint: Designator=VR1 Old Footprint=SOT89 New Footprint=SOT89

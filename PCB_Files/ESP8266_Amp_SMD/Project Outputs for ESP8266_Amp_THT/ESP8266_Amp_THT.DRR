@@ -1,0 +1,22 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: ESP8266_Amp_THT.PcbDoc   24.08.2018  16:42:00
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : ESP8266_Amp_THT-RoundHoles.TXT
+ASCII SlotHoles File : ESP8266_Amp_THT-SlotHoles.TXT
+EIA File   : ESP8266_Amp_THT.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        14mil (0.3556mm)         Round          19               8.10 Inch (205.62 mm)
+T2        30mil (0.762mm)          Round          23               3.93 Inch (99.80 mm)
+T3        31.5mil (0.8001mm)       Round          6                0.74 Inch (18.89 mm)
+T4        31.5mil (0.8001mm)       Slot           3                285.44 Inch (7250.14 mm)
+T5        33.46mil (0.84988mm)     Round          20               4.78 Inch (121.44 mm)
+T6        35.43mil (0.89992mm)     Round          19               6.31 Inch (160.35 mm)
+T7        39.37mil (1mm)           Round          18               2.35 Inch (59.69 mm)
+---------------------------------------------------------------------------
+Totals                                            108              311.65 Inch (7915.93 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

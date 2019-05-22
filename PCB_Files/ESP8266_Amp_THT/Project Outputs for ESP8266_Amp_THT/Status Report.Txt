@@ -1,0 +1,14 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [ESP8266_Amp_THT.PrjPcb]
+   Generated File[ESP8266_Amp_THT-RoundHoles.TXT]
+   Generated File[ESP8266_Amp_THT-SlotHoles.TXT]
+   Generated File[ESP8266_Amp_THT.DRL]
+   Generated File[ESP8266_Amp_THT.LDP]
+   Generated File[ESP8266_Amp_THT.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 16:42:00 On 24.08.2018
